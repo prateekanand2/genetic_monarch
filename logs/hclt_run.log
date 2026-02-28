@@ -1,0 +1,838 @@
+[Epoch 1] [train LL: -6981.9569; val LL: -1350.1048] [train 4.46s; val 1.39s] ✓ improved
+[Epoch 2] [train LL: -1352.2141; val LL: -717.2076] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 3] [train LL: -712.3115; val LL: -493.2117] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 4] [train LL: -487.7451; val LL: -446.9411] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 5] [train LL: -438.5745; val LL: -433.7071] [train 1.89s; val 0.07s] ✓ improved
+[Epoch 6] [train LL: -423.6377; val LL: -426.1269] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 7] [train LL: -413.9845; val LL: -419.8621] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 8] [train LL: -407.9360; val LL: -413.8715] [train 1.89s; val 0.07s] ✓ improved
+[Epoch 9] [train LL: -401.2454; val LL: -408.6320] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 10] [train LL: -393.2487; val LL: -404.0931] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 11] [train LL: -390.3262; val LL: -399.9964] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 12] [train LL: -385.6114; val LL: -396.4179] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 13] [train LL: -380.9340; val LL: -392.8224] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 14] [train LL: -375.8717; val LL: -389.5189] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 15] [train LL: -371.4047; val LL: -386.5852] [train 1.89s; val 0.07s] ✓ improved
+[Epoch 16] [train LL: -369.4601; val LL: -383.8826] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 17] [train LL: -365.4312; val LL: -381.3874] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 18] [train LL: -362.0619; val LL: -378.8642] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 19] [train LL: -359.3307; val LL: -376.3793] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 20] [train LL: -356.0083; val LL: -373.9652] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 21] [train LL: -353.1447; val LL: -371.7614] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 22] [train LL: -351.4112; val LL: -369.5821] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 23] [train LL: -348.0479; val LL: -367.3022] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 24] [train LL: -344.9813; val LL: -365.1775] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 25] [train LL: -343.2951; val LL: -363.0386] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 26] [train LL: -339.5919; val LL: -361.0881] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 27] [train LL: -336.9584; val LL: -359.1556] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 28] [train LL: -335.6887; val LL: -357.3270] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 29] [train LL: -333.5278; val LL: -355.6591] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 30] [train LL: -330.6621; val LL: -354.1821] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 31] [train LL: -330.2044; val LL: -352.7843] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 32] [train LL: -326.7707; val LL: -351.4778] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 33] [train LL: -326.7449; val LL: -350.2902] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 34] [train LL: -324.1979; val LL: -349.4075] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 35] [train LL: -322.4377; val LL: -348.3325] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 36] [train LL: -322.6745; val LL: -347.3123] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 37] [train LL: -318.7908; val LL: -346.3063] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 38] [train LL: -318.7357; val LL: -345.2742] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 39] [train LL: -317.7334; val LL: -344.2521] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 40] [train LL: -316.0023; val LL: -343.3119] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 41] [train LL: -314.6902; val LL: -342.3372] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 42] [train LL: -313.3018; val LL: -341.3274] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 43] [train LL: -311.9206; val LL: -340.2766] [train 1.89s; val 0.07s] ✓ improved
+[Epoch 44] [train LL: -310.2110; val LL: -339.1830] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 45] [train LL: -310.0500; val LL: -338.1173] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 46] [train LL: -308.1110; val LL: -337.1147] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 47] [train LL: -307.3196; val LL: -336.2378] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 48] [train LL: -305.2856; val LL: -335.2689] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 49] [train LL: -304.8671; val LL: -334.4471] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 50] [train LL: -304.2462; val LL: -333.6598] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 51] [train LL: -302.5037; val LL: -332.9508] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 52] [train LL: -300.6124; val LL: -332.4009] [train 1.86s; val 0.06s] ✓ improved
+[Epoch 53] [train LL: -300.9555; val LL: -331.8366] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 54] [train LL: -299.9365; val LL: -331.2989] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 55] [train LL: -298.9959; val LL: -330.7687] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 56] [train LL: -298.1602; val LL: -330.1163] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 57] [train LL: -297.9777; val LL: -329.5638] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 58] [train LL: -296.6866; val LL: -329.0254] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 59] [train LL: -295.8294; val LL: -328.3625] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 60] [train LL: -295.1496; val LL: -327.7198] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 61] [train LL: -294.7999; val LL: -326.9140] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 62] [train LL: -294.0481; val LL: -326.5970] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 63] [train LL: -293.2775; val LL: -325.9810] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 64] [train LL: -292.3393; val LL: -325.1684] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 65] [train LL: -291.6390; val LL: -324.7578] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 66] [train LL: -289.2289; val LL: -324.1458] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 67] [train LL: -289.1678; val LL: -323.6026] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 68] [train LL: -289.1053; val LL: -322.7462] [train 1.86s; val 0.06s] ✓ improved
+[Epoch 69] [train LL: -288.0892; val LL: -322.2895] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 70] [train LL: -286.7495; val LL: -321.6982] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 71] [train LL: -286.8821; val LL: -321.0561] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 72] [train LL: -285.0228; val LL: -320.6098] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 73] [train LL: -285.2321; val LL: -320.1154] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 74] [train LL: -284.4574; val LL: -319.6807] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 75] [train LL: -283.9447; val LL: -319.5169] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 76] [train LL: -283.3556; val LL: -319.1015] [train 1.86s; val 0.06s] ✓ improved
+[Epoch 77] [train LL: -282.5993; val LL: -318.6114] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 78] [train LL: -281.6430; val LL: -318.0115] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 79] [train LL: -281.6847; val LL: -317.6555] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 80] [train LL: -281.4373; val LL: -317.3653] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 81] [train LL: -280.8281; val LL: -317.0265] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 82] [train LL: -279.3723; val LL: -316.6078] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 83] [train LL: -279.1958; val LL: -316.7333] [train 1.88s; val 0.06s] no improve (1/50)
+[Epoch 84] [train LL: -278.7474; val LL: -316.2174] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 85] [train LL: -279.0603; val LL: -316.0019] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 86] [train LL: -278.2522; val LL: -315.5548] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 87] [train LL: -277.3969; val LL: -315.1633] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 88] [train LL: -277.1398; val LL: -314.4035] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 89] [train LL: -276.5000; val LL: -314.3115] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 90] [train LL: -276.4218; val LL: -313.9511] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 91] [train LL: -276.0049; val LL: -313.2433] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 92] [train LL: -274.7146; val LL: -313.1968] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 93] [train LL: -275.2210; val LL: -312.9779] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 94] [train LL: -274.9636; val LL: -312.6626] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 95] [train LL: -272.7923; val LL: -312.2466] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 96] [train LL: -272.9040; val LL: -311.9093] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 97] [train LL: -272.8918; val LL: -311.5785] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 98] [train LL: -273.6273; val LL: -311.3560] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 99] [train LL: -271.7256; val LL: -310.9855] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 100] [train LL: -272.7383; val LL: -310.7687] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 101] [train LL: -270.6800; val LL: -310.5713] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 102] [train LL: -272.0834; val LL: -310.4707] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 103] [train LL: -270.3391; val LL: -310.1911] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 104] [train LL: -271.2409; val LL: -309.9733] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 105] [train LL: -269.8585; val LL: -309.4350] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 106] [train LL: -269.0414; val LL: -309.5245] [train 1.87s; val 0.06s] no improve (1/50)
+[Epoch 107] [train LL: -269.5626; val LL: -309.3726] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 108] [train LL: -268.7239; val LL: -309.2593] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 109] [train LL: -269.2132; val LL: -308.7098] [train 1.89s; val 0.07s] ✓ improved
+[Epoch 110] [train LL: -267.9079; val LL: -308.8763] [train 1.88s; val 0.06s] no improve (1/50)
+[Epoch 111] [train LL: -268.7145; val LL: -308.7396] [train 1.88s; val 0.06s] no improve (2/50)
+[Epoch 112] [train LL: -268.5085; val LL: -308.2839] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 113] [train LL: -268.0417; val LL: -308.4262] [train 1.90s; val 0.06s] no improve (1/50)
+[Epoch 114] [train LL: -267.3911; val LL: -307.8647] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 115] [train LL: -267.3640; val LL: -308.0190] [train 1.89s; val 0.06s] no improve (1/50)
+[Epoch 116] [train LL: -266.4461; val LL: -308.0177] [train 1.89s; val 0.06s] no improve (2/50)
+[Epoch 117] [train LL: -266.8567; val LL: -307.8879] [train 1.88s; val 0.06s] no improve (3/50)
+[Epoch 118] [train LL: -266.7285; val LL: -307.6500] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 119] [train LL: -266.2166; val LL: -307.3971] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 120] [train LL: -266.1112; val LL: -307.3116] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 121] [train LL: -265.5120; val LL: -307.4007] [train 1.88s; val 0.06s] no improve (1/50)
+[Epoch 122] [train LL: -265.5124; val LL: -306.9108] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 123] [train LL: -265.8922; val LL: -307.1425] [train 1.87s; val 0.06s] no improve (1/50)
+[Epoch 124] [train LL: -265.4960; val LL: -307.0469] [train 1.87s; val 0.06s] no improve (2/50)
+[Epoch 125] [train LL: -265.0540; val LL: -306.8365] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 126] [train LL: -265.5110; val LL: -306.6930] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 127] [train LL: -264.4724; val LL: -306.4796] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 128] [train LL: -263.7802; val LL: -306.3582] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 129] [train LL: -264.7712; val LL: -306.0804] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 130] [train LL: -263.8060; val LL: -305.8872] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 131] [train LL: -263.3886; val LL: -305.9324] [train 1.87s; val 0.06s] no improve (1/50)
+[Epoch 132] [train LL: -263.4458; val LL: -305.6898] [train 1.86s; val 0.06s] ✓ improved
+[Epoch 133] [train LL: -262.7725; val LL: -305.5142] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 134] [train LL: -262.2569; val LL: -305.3494] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 135] [train LL: -262.7889; val LL: -305.2200] [train 1.88s; val 0.07s] ✓ improved
+[Epoch 136] [train LL: -262.3164; val LL: -304.9814] [train 1.88s; val 0.07s] ✓ improved
+[Epoch 137] [train LL: -263.3994; val LL: -304.6278] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 138] [train LL: -261.8655; val LL: -304.6334] [train 1.88s; val 0.07s] no improve (1/50)
+[Epoch 139] [train LL: -261.5371; val LL: -304.5593] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 140] [train LL: -261.2599; val LL: -304.4559] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 141] [train LL: -261.6359; val LL: -304.2686] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 142] [train LL: -261.6542; val LL: -304.1006] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 143] [train LL: -260.6140; val LL: -304.0054] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 144] [train LL: -261.3540; val LL: -303.9890] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 145] [train LL: -260.8166; val LL: -303.9140] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 146] [train LL: -260.7373; val LL: -303.7260] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 147] [train LL: -260.2399; val LL: -303.6308] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 148] [train LL: -260.4431; val LL: -303.2157] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 149] [train LL: -259.3973; val LL: -303.3345] [train 1.87s; val 0.06s] no improve (1/50)
+[Epoch 150] [train LL: -260.8326; val LL: -303.0882] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 151] [train LL: -259.7013; val LL: -302.9196] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 152] [train LL: -259.0437; val LL: -302.6289] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 153] [train LL: -258.5830; val LL: -302.1602] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 154] [train LL: -258.7808; val LL: -302.3270] [train 1.87s; val 0.06s] no improve (1/50)
+[Epoch 155] [train LL: -258.2417; val LL: -302.1416] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 156] [train LL: -258.2890; val LL: -301.9368] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 157] [train LL: -258.7782; val LL: -301.4044] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 158] [train LL: -258.5811; val LL: -301.4738] [train 1.88s; val 0.06s] no improve (1/50)
+[Epoch 159] [train LL: -257.6077; val LL: -301.3989] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 160] [train LL: -258.4368; val LL: -301.2181] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 161] [train LL: -256.2919; val LL: -301.0420] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 162] [train LL: -256.9580; val LL: -300.9417] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 163] [train LL: -256.6972; val LL: -300.7163] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 164] [train LL: -256.4209; val LL: -300.6872] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 165] [train LL: -256.8481; val LL: -300.4647] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 166] [train LL: -255.9200; val LL: -300.4131] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 167] [train LL: -255.6342; val LL: -300.4158] [train 1.87s; val 0.06s] no improve (1/50)
+[Epoch 168] [train LL: -256.4909; val LL: -300.1785] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 169] [train LL: -256.8677; val LL: -300.0531] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 170] [train LL: -256.3924; val LL: -299.9227] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 171] [train LL: -255.6670; val LL: -299.8280] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 172] [train LL: -255.4296; val LL: -299.5180] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 173] [train LL: -255.0694; val LL: -299.0185] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 174] [train LL: -255.0433; val LL: -298.8164] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 175] [train LL: -254.5079; val LL: -298.6676] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 176] [train LL: -255.0256; val LL: -298.7701] [train 1.88s; val 0.06s] no improve (1/50)
+[Epoch 177] [train LL: -253.8321; val LL: -298.7545] [train 1.87s; val 0.06s] no improve (2/50)
+[Epoch 178] [train LL: -254.3388; val LL: -298.6710] [train 1.87s; val 0.06s] no improve (3/50)
+[Epoch 179] [train LL: -253.9876; val LL: -298.2567] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 180] [train LL: -253.2200; val LL: -298.4214] [train 1.87s; val 0.06s] no improve (1/50)
+[Epoch 181] [train LL: -252.7295; val LL: -298.4750] [train 1.87s; val 0.06s] no improve (2/50)
+[Epoch 182] [train LL: -252.6660; val LL: -298.3036] [train 1.87s; val 0.06s] no improve (3/50)
+[Epoch 183] [train LL: -253.6608; val LL: -298.2160] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 184] [train LL: -252.9928; val LL: -298.1329] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 185] [train LL: -253.3524; val LL: -297.9823] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 186] [train LL: -253.2490; val LL: -297.7965] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 187] [train LL: -252.6037; val LL: -297.7948] [train 1.86s; val 0.06s] ✓ improved
+[Epoch 188] [train LL: -252.9182; val LL: -297.7781] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 189] [train LL: -252.7153; val LL: -297.6639] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 190] [train LL: -252.4155; val LL: -297.6455] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 191] [train LL: -252.4622; val LL: -297.5565] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 192] [train LL: -252.3463; val LL: -297.4208] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 193] [train LL: -251.8294; val LL: -297.3401] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 194] [train LL: -251.8176; val LL: -297.2531] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 195] [train LL: -251.9514; val LL: -297.1251] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 196] [train LL: -252.8508; val LL: -296.7867] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 197] [train LL: -251.2014; val LL: -296.8771] [train 1.87s; val 0.06s] no improve (1/50)
+[Epoch 198] [train LL: -251.6914; val LL: -296.6671] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 199] [train LL: -250.2971; val LL: -296.5296] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 200] [train LL: -250.1048; val LL: -296.4763] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 201] [train LL: -250.0294; val LL: -296.3221] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 202] [train LL: -251.1394; val LL: -296.3884] [train 1.87s; val 0.06s] no improve (1/50)
+[Epoch 203] [train LL: -251.1067; val LL: -296.2371] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 204] [train LL: -250.6945; val LL: -296.1360] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 205] [train LL: -250.2972; val LL: -295.9043] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 206] [train LL: -250.8529; val LL: -295.8490] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 207] [train LL: -251.1945; val LL: -295.7231] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 208] [train LL: -249.6661; val LL: -295.5823] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 209] [train LL: -249.3487; val LL: -295.5088] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 210] [train LL: -250.0377; val LL: -295.3756] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 211] [train LL: -249.3547; val LL: -295.2287] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 212] [train LL: -249.4965; val LL: -295.2988] [train 1.87s; val 0.06s] no improve (1/50)
+[Epoch 213] [train LL: -248.7904; val LL: -294.9823] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 214] [train LL: -248.6306; val LL: -294.8277] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 215] [train LL: -248.2586; val LL: -294.5453] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 216] [train LL: -249.5420; val LL: -294.5640] [train 1.88s; val 0.06s] no improve (1/50)
+[Epoch 217] [train LL: -248.6232; val LL: -294.4345] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 218] [train LL: -248.5540; val LL: -294.4066] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 219] [train LL: -248.2476; val LL: -294.3057] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 220] [train LL: -247.9989; val LL: -294.1677] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 221] [train LL: -247.2633; val LL: -294.1226] [train 1.92s; val 0.07s] ✓ improved
+[Epoch 222] [train LL: -247.0578; val LL: -293.7350] [train 1.92s; val 0.07s] ✓ improved
+[Epoch 223] [train LL: -247.5362; val LL: -293.7123] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 224] [train LL: -247.7527; val LL: -293.6032] [train 1.92s; val 0.07s] ✓ improved
+[Epoch 225] [train LL: -247.3743; val LL: -293.5665] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 226] [train LL: -246.8281; val LL: -293.4456] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 227] [train LL: -246.8383; val LL: -293.4111] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 228] [train LL: -247.9827; val LL: -293.4434] [train 1.92s; val 0.07s] no improve (1/50)
+[Epoch 229] [train LL: -247.2616; val LL: -293.3038] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 230] [train LL: -246.9621; val LL: -293.2895] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 231] [train LL: -247.5459; val LL: -293.1603] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 232] [train LL: -247.3785; val LL: -293.5972] [train 1.91s; val 0.06s] no improve (1/50)
+[Epoch 233] [train LL: -247.0049; val LL: -293.4019] [train 1.91s; val 0.06s] no improve (2/50)
+[Epoch 234] [train LL: -246.8875; val LL: -293.4431] [train 1.91s; val 0.07s] no improve (3/50)
+[Epoch 235] [train LL: -247.2265; val LL: -292.9819] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 236] [train LL: -246.7789; val LL: -293.1307] [train 1.91s; val 0.07s] no improve (1/50)
+[Epoch 237] [train LL: -247.4251; val LL: -293.0471] [train 1.91s; val 0.06s] no improve (2/50)
+[Epoch 238] [train LL: -246.9693; val LL: -292.8246] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 239] [train LL: -246.5291; val LL: -292.9520] [train 1.91s; val 0.07s] no improve (1/50)
+[Epoch 240] [train LL: -246.6966; val LL: -292.8556] [train 1.91s; val 0.06s] no improve (2/50)
+[Epoch 241] [train LL: -245.7046; val LL: -292.8435] [train 1.91s; val 0.06s] no improve (3/50)
+[Epoch 242] [train LL: -246.1513; val LL: -292.3830] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 243] [train LL: -245.9026; val LL: -292.3485] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 244] [train LL: -245.6960; val LL: -292.6062] [train 1.91s; val 0.07s] no improve (1/50)
+[Epoch 245] [train LL: -245.6483; val LL: -292.4642] [train 1.90s; val 0.06s] no improve (2/50)
+[Epoch 246] [train LL: -245.7798; val LL: -292.2560] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 247] [train LL: -244.6236; val LL: -292.1475] [train 1.92s; val 0.07s] ✓ improved
+[Epoch 248] [train LL: -244.4868; val LL: -291.9259] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 249] [train LL: -245.8092; val LL: -291.9647] [train 1.91s; val 0.06s] no improve (1/50)
+[Epoch 250] [train LL: -245.0335; val LL: -291.8493] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 251] [train LL: -244.8465; val LL: -291.7905] [train 1.92s; val 0.07s] ✓ improved
+[Epoch 252] [train LL: -245.0856; val LL: -291.3054] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 253] [train LL: -245.2630; val LL: -291.1051] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 254] [train LL: -244.7880; val LL: -291.0095] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 255] [train LL: -243.9090; val LL: -290.9933] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 256] [train LL: -244.7704; val LL: -291.1276] [train 1.91s; val 0.07s] no improve (1/50)
+[Epoch 257] [train LL: -244.7965; val LL: -290.9287] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 258] [train LL: -242.9603; val LL: -291.1284] [train 1.91s; val 0.07s] no improve (1/50)
+[Epoch 259] [train LL: -243.5684; val LL: -290.9783] [train 1.90s; val 0.06s] no improve (2/50)
+[Epoch 260] [train LL: -243.4932; val LL: -291.1557] [train 1.92s; val 0.06s] no improve (3/50)
+[Epoch 261] [train LL: -244.4534; val LL: -291.1187] [train 1.95s; val 0.06s] no improve (4/50)
+[Epoch 262] [train LL: -243.8146; val LL: -291.1541] [train 1.92s; val 0.06s] no improve (5/50)
+[Epoch 263] [train LL: -243.7343; val LL: -291.1183] [train 1.91s; val 0.07s] no improve (6/50)
+[Epoch 264] [train LL: -242.9189; val LL: -291.0296] [train 1.91s; val 0.07s] no improve (7/50)
+[Epoch 265] [train LL: -243.4894; val LL: -290.8557] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 266] [train LL: -243.8299; val LL: -290.6642] [train 1.92s; val 0.06s] ✓ improved
+[Epoch 267] [train LL: -242.9257; val LL: -290.9032] [train 1.87s; val 0.06s] no improve (1/50)
+[Epoch 268] [train LL: -244.1854; val LL: -291.1356] [train 1.87s; val 0.07s] no improve (2/50)
+[Epoch 269] [train LL: -242.8344; val LL: -290.6599] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 270] [train LL: -243.3830; val LL: -290.4920] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 271] [train LL: -243.1304; val LL: -290.7946] [train 1.88s; val 0.06s] no improve (1/50)
+[Epoch 272] [train LL: -242.7787; val LL: -290.9106] [train 1.88s; val 0.06s] no improve (2/50)
+[Epoch 273] [train LL: -243.3863; val LL: -290.6412] [train 1.88s; val 0.06s] no improve (3/50)
+[Epoch 274] [train LL: -243.2550; val LL: -290.6409] [train 1.88s; val 0.06s] no improve (4/50)
+[Epoch 275] [train LL: -243.6407; val LL: -290.6795] [train 1.88s; val 0.06s] no improve (5/50)
+[Epoch 276] [train LL: -243.2798; val LL: -290.4660] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 277] [train LL: -243.1273; val LL: -290.4179] [train 1.89s; val 0.07s] ✓ improved
+[Epoch 278] [train LL: -242.0468; val LL: -290.3507] [train 1.89s; val 0.07s] ✓ improved
+[Epoch 279] [train LL: -242.2833; val LL: -290.3152] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 280] [train LL: -241.2986; val LL: -290.0190] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 281] [train LL: -241.3755; val LL: -289.8792] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 282] [train LL: -242.3029; val LL: -289.8586] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 283] [train LL: -241.8877; val LL: -289.7240] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 284] [train LL: -242.6629; val LL: -289.6017] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 285] [train LL: -242.0005; val LL: -289.6135] [train 1.87s; val 0.06s] no improve (1/50)
+[Epoch 286] [train LL: -243.0202; val LL: -289.9338] [train 1.88s; val 0.06s] no improve (2/50)
+[Epoch 287] [train LL: -242.1929; val LL: -289.9492] [train 1.88s; val 0.06s] no improve (3/50)
+[Epoch 288] [train LL: -242.6445; val LL: -289.9351] [train 1.88s; val 0.06s] no improve (4/50)
+[Epoch 289] [train LL: -241.7297; val LL: -289.6612] [train 1.88s; val 0.06s] no improve (5/50)
+[Epoch 290] [train LL: -241.9779; val LL: -289.4082] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 291] [train LL: -241.7755; val LL: -289.6467] [train 1.87s; val 0.06s] no improve (1/50)
+[Epoch 292] [train LL: -241.7728; val LL: -289.7699] [train 1.88s; val 0.06s] no improve (2/50)
+[Epoch 293] [train LL: -241.1426; val LL: -289.3040] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 294] [train LL: -240.8354; val LL: -289.3480] [train 1.88s; val 0.06s] no improve (1/50)
+[Epoch 295] [train LL: -240.9721; val LL: -289.3524] [train 1.87s; val 0.06s] no improve (2/50)
+[Epoch 296] [train LL: -240.9357; val LL: -289.2605] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 297] [train LL: -241.1452; val LL: -289.1923] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 298] [train LL: -240.2542; val LL: -289.0937] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 299] [train LL: -240.6110; val LL: -288.7196] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 300] [train LL: -241.1067; val LL: -288.9986] [train 1.89s; val 0.06s] no improve (1/50)
+[Epoch 301] [train LL: -240.8173; val LL: -289.1215] [train 1.89s; val 0.06s] no improve (2/50)
+[Epoch 302] [train LL: -240.3757; val LL: -288.8580] [train 1.89s; val 0.06s] no improve (3/50)
+[Epoch 303] [train LL: -239.9191; val LL: -288.7600] [train 1.90s; val 0.06s] no improve (4/50)
+[Epoch 304] [train LL: -240.2235; val LL: -288.8156] [train 1.89s; val 0.06s] no improve (5/50)
+[Epoch 305] [train LL: -240.0631; val LL: -288.7436] [train 1.89s; val 0.06s] no improve (6/50)
+[Epoch 306] [train LL: -239.9051; val LL: -288.6651] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 307] [train LL: -240.6750; val LL: -288.7287] [train 1.88s; val 0.06s] no improve (1/50)
+[Epoch 308] [train LL: -240.5886; val LL: -288.5071] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 309] [train LL: -240.3700; val LL: -288.5818] [train 1.88s; val 0.06s] no improve (1/50)
+[Epoch 310] [train LL: -239.4977; val LL: -288.5251] [train 1.88s; val 0.06s] no improve (2/50)
+[Epoch 311] [train LL: -240.2417; val LL: -288.4871] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 312] [train LL: -240.2690; val LL: -288.5270] [train 1.87s; val 0.06s] no improve (1/50)
+[Epoch 313] [train LL: -240.2165; val LL: -288.5325] [train 1.87s; val 0.06s] no improve (2/50)
+[Epoch 314] [train LL: -239.3265; val LL: -288.4141] [train 1.87s; val 0.06s] ✓ improved
+[Epoch 315] [train LL: -239.7794; val LL: -288.5460] [train 1.87s; val 0.06s] no improve (1/50)
+[Epoch 316] [train LL: -239.2837; val LL: -288.5015] [train 1.87s; val 0.06s] no improve (2/50)
+[Epoch 317] [train LL: -239.8876; val LL: -288.3951] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 318] [train LL: -240.0028; val LL: -288.1140] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 319] [train LL: -239.1869; val LL: -288.3344] [train 1.88s; val 0.06s] no improve (1/50)
+[Epoch 320] [train LL: -239.5329; val LL: -288.3098] [train 1.87s; val 0.06s] no improve (2/50)
+[Epoch 321] [train LL: -239.1122; val LL: -288.1815] [train 1.89s; val 0.06s] no improve (3/50)
+[Epoch 322] [train LL: -239.3673; val LL: -288.1843] [train 1.89s; val 0.06s] no improve (4/50)
+[Epoch 323] [train LL: -238.8221; val LL: -287.9041] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 324] [train LL: -239.6723; val LL: -287.9311] [train 1.91s; val 0.06s] no improve (1/50)
+[Epoch 325] [train LL: -238.7754; val LL: -287.8618] [train 1.89s; val 0.07s] ✓ improved
+[Epoch 326] [train LL: -239.7965; val LL: -287.8530] [train 1.93s; val 0.07s] ✓ improved
+[Epoch 327] [train LL: -238.5898; val LL: -287.7173] [train 1.92s; val 0.07s] ✓ improved
+[Epoch 328] [train LL: -239.7077; val LL: -288.1193] [train 1.94s; val 0.07s] no improve (1/50)
+[Epoch 329] [train LL: -238.4314; val LL: -288.5023] [train 1.92s; val 0.06s] no improve (2/50)
+[Epoch 330] [train LL: -239.0806; val LL: -288.0227] [train 1.90s; val 0.06s] no improve (3/50)
+[Epoch 331] [train LL: -239.0729; val LL: -287.9969] [train 1.92s; val 0.06s] no improve (4/50)
+[Epoch 332] [train LL: -238.3404; val LL: -287.9980] [train 1.93s; val 0.06s] no improve (5/50)
+[Epoch 333] [train LL: -238.4985; val LL: -287.8287] [train 1.91s; val 0.07s] no improve (6/50)
+[Epoch 334] [train LL: -238.7882; val LL: -288.1774] [train 1.88s; val 0.07s] no improve (7/50)
+[Epoch 335] [train LL: -238.0507; val LL: -288.0225] [train 1.93s; val 0.06s] no improve (8/50)
+[Epoch 336] [train LL: -238.9534; val LL: -288.2101] [train 1.93s; val 0.07s] no improve (9/50)
+[Epoch 337] [train LL: -238.1793; val LL: -287.9748] [train 1.93s; val 0.06s] no improve (10/50)
+[Epoch 338] [train LL: -238.9905; val LL: -288.1300] [train 1.92s; val 0.06s] no improve (11/50)
+[Epoch 339] [train LL: -237.8083; val LL: -287.9939] [train 1.94s; val 0.07s] no improve (12/50)
+[Epoch 340] [train LL: -237.7188; val LL: -287.6773] [train 1.92s; val 0.06s] ✓ improved
+[Epoch 341] [train LL: -238.4831; val LL: -287.9787] [train 1.91s; val 0.06s] no improve (1/50)
+[Epoch 342] [train LL: -238.2206; val LL: -287.5874] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 343] [train LL: -238.3011; val LL: -287.5323] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 344] [train LL: -239.5140; val LL: -287.8477] [train 1.90s; val 0.07s] no improve (1/50)
+[Epoch 345] [train LL: -239.1583; val LL: -287.7417] [train 1.91s; val 0.06s] no improve (2/50)
+[Epoch 346] [train LL: -237.9147; val LL: -287.7768] [train 1.96s; val 0.07s] no improve (3/50)
+[Epoch 347] [train LL: -238.1323; val LL: -287.6968] [train 1.93s; val 0.06s] no improve (4/50)
+[Epoch 348] [train LL: -237.6153; val LL: -287.7227] [train 1.94s; val 0.06s] no improve (5/50)
+[Epoch 349] [train LL: -237.5952; val LL: -287.6756] [train 1.93s; val 0.06s] no improve (6/50)
+[Epoch 350] [train LL: -237.6913; val LL: -287.8940] [train 1.93s; val 0.07s] no improve (7/50)
+[Epoch 351] [train LL: -238.6144; val LL: -287.4715] [train 1.94s; val 0.06s] ✓ improved
+[Epoch 352] [train LL: -238.0644; val LL: -287.6559] [train 1.90s; val 0.07s] no improve (1/50)
+[Epoch 353] [train LL: -237.3278; val LL: -287.6593] [train 1.90s; val 0.06s] no improve (2/50)
+[Epoch 354] [train LL: -237.4451; val LL: -287.6462] [train 1.88s; val 0.06s] no improve (3/50)
+[Epoch 355] [train LL: -238.0959; val LL: -287.4163] [train 1.95s; val 0.06s] ✓ improved
+[Epoch 356] [train LL: -237.2748; val LL: -287.6582] [train 1.96s; val 0.07s] no improve (1/50)
+[Epoch 357] [train LL: -237.7774; val LL: -287.6058] [train 1.94s; val 0.06s] no improve (2/50)
+[Epoch 358] [train LL: -237.8045; val LL: -287.5548] [train 1.92s; val 0.07s] no improve (3/50)
+[Epoch 359] [train LL: -237.6702; val LL: -287.1483] [train 1.93s; val 0.06s] ✓ improved
+[Epoch 360] [train LL: -237.6904; val LL: -287.1844] [train 1.92s; val 0.07s] no improve (1/50)
+[Epoch 361] [train LL: -238.2791; val LL: -287.1678] [train 1.96s; val 0.07s] no improve (2/50)
+[Epoch 362] [train LL: -237.5996; val LL: -287.4805] [train 1.94s; val 0.07s] no improve (3/50)
+[Epoch 363] [train LL: -237.0692; val LL: -287.4880] [train 1.92s; val 0.07s] no improve (4/50)
+[Epoch 364] [train LL: -236.8567; val LL: -287.0101] [train 1.93s; val 0.07s] ✓ improved
+[Epoch 365] [train LL: -237.6570; val LL: -286.9975] [train 1.94s; val 0.07s] ✓ improved
+[Epoch 366] [train LL: -237.4273; val LL: -287.0183] [train 1.93s; val 0.06s] no improve (1/50)
+[Epoch 367] [train LL: -237.7251; val LL: -286.9398] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 368] [train LL: -236.5049; val LL: -286.9410] [train 1.91s; val 0.06s] no improve (1/50)
+[Epoch 369] [train LL: -237.2409; val LL: -286.9502] [train 1.92s; val 0.06s] no improve (2/50)
+[Epoch 370] [train LL: -236.8046; val LL: -286.8559] [train 1.93s; val 0.07s] ✓ improved
+[Epoch 371] [train LL: -236.4070; val LL: -286.9510] [train 1.95s; val 0.07s] no improve (1/50)
+[Epoch 372] [train LL: -236.8846; val LL: -286.7546] [train 1.93s; val 0.06s] ✓ improved
+[Epoch 373] [train LL: -236.7448; val LL: -286.8810] [train 1.90s; val 0.06s] no improve (1/50)
+[Epoch 374] [train LL: -236.9134; val LL: -287.2804] [train 1.90s; val 0.07s] no improve (2/50)
+[Epoch 375] [train LL: -236.4673; val LL: -286.7060] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 376] [train LL: -236.8019; val LL: -286.7105] [train 1.91s; val 0.07s] no improve (1/50)
+[Epoch 377] [train LL: -236.1535; val LL: -286.6507] [train 1.94s; val 0.06s] ✓ improved
+[Epoch 378] [train LL: -236.6053; val LL: -286.5685] [train 1.92s; val 0.06s] ✓ improved
+[Epoch 379] [train LL: -235.9778; val LL: -286.5610] [train 1.96s; val 0.07s] ✓ improved
+[Epoch 380] [train LL: -237.3151; val LL: -286.6123] [train 1.94s; val 0.06s] no improve (1/50)
+[Epoch 381] [train LL: -236.9187; val LL: -286.4899] [train 1.92s; val 0.06s] ✓ improved
+[Epoch 382] [train LL: -235.8837; val LL: -286.4342] [train 1.95s; val 0.07s] ✓ improved
+[Epoch 383] [train LL: -236.4184; val LL: -286.3942] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 384] [train LL: -236.3623; val LL: -286.3966] [train 1.92s; val 0.07s] no improve (1/50)
+[Epoch 385] [train LL: -236.8045; val LL: -286.2871] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 386] [train LL: -235.8404; val LL: -286.3229] [train 1.89s; val 0.06s] no improve (1/50)
+[Epoch 387] [train LL: -235.3892; val LL: -286.2756] [train 1.92s; val 0.06s] ✓ improved
+[Epoch 388] [train LL: -236.3892; val LL: -286.2564] [train 1.93s; val 0.06s] ✓ improved
+[Epoch 389] [train LL: -236.7761; val LL: -286.1930] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 390] [train LL: -234.8828; val LL: -286.2791] [train 1.91s; val 0.07s] no improve (1/50)
+[Epoch 391] [train LL: -235.6766; val LL: -286.2003] [train 1.90s; val 0.06s] no improve (2/50)
+[Epoch 392] [train LL: -235.3210; val LL: -286.1448] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 393] [train LL: -235.1652; val LL: -285.9983] [train 1.92s; val 0.06s] ✓ improved
+[Epoch 394] [train LL: -235.3436; val LL: -286.0976] [train 1.89s; val 0.06s] no improve (1/50)
+[Epoch 395] [train LL: -235.5842; val LL: -286.0013] [train 1.90s; val 0.06s] no improve (2/50)
+[Epoch 396] [train LL: -235.2204; val LL: -286.1203] [train 1.89s; val 0.06s] no improve (3/50)
+[Epoch 397] [train LL: -235.7659; val LL: -285.9760] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 398] [train LL: -235.3427; val LL: -285.9621] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 399] [train LL: -235.4279; val LL: -286.2968] [train 1.92s; val 0.06s] no improve (1/50)
+[Epoch 400] [train LL: -234.8259; val LL: -286.2711] [train 1.91s; val 0.06s] no improve (2/50)
+[Epoch 401] [train LL: -235.6526; val LL: -286.2577] [train 1.92s; val 0.07s] no improve (3/50)
+[Epoch 402] [train LL: -235.4228; val LL: -286.1118] [train 1.94s; val 0.07s] no improve (4/50)
+[Epoch 403] [train LL: -235.0429; val LL: -286.0291] [train 1.94s; val 0.07s] no improve (5/50)
+[Epoch 404] [train LL: -234.4719; val LL: -286.0947] [train 1.95s; val 0.07s] no improve (6/50)
+[Epoch 405] [train LL: -234.9175; val LL: -286.1014] [train 1.94s; val 0.08s] no improve (7/50)
+[Epoch 406] [train LL: -235.0167; val LL: -286.0678] [train 1.93s; val 0.07s] no improve (8/50)
+[Epoch 407] [train LL: -235.1602; val LL: -285.7454] [train 1.92s; val 0.06s] ✓ improved
+[Epoch 408] [train LL: -234.6152; val LL: -286.0295] [train 1.90s; val 0.07s] no improve (1/50)
+[Epoch 409] [train LL: -236.3351; val LL: -285.6946] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 410] [train LL: -235.1384; val LL: -285.8683] [train 1.94s; val 0.06s] no improve (1/50)
+[Epoch 411] [train LL: -234.6707; val LL: -285.9118] [train 1.92s; val 0.07s] no improve (2/50)
+[Epoch 412] [train LL: -234.7701; val LL: -285.9566] [train 1.93s; val 0.06s] no improve (3/50)
+[Epoch 413] [train LL: -235.6829; val LL: -285.9466] [train 1.92s; val 0.06s] no improve (4/50)
+[Epoch 414] [train LL: -234.6312; val LL: -285.9378] [train 1.92s; val 0.07s] no improve (5/50)
+[Epoch 415] [train LL: -234.4274; val LL: -285.9617] [train 1.91s; val 0.06s] no improve (6/50)
+[Epoch 416] [train LL: -233.5639; val LL: -285.8347] [train 1.93s; val 0.07s] no improve (7/50)
+[Epoch 417] [train LL: -233.6125; val LL: -285.7688] [train 1.93s; val 0.06s] no improve (8/50)
+[Epoch 418] [train LL: -234.8620; val LL: -285.5448] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 419] [train LL: -234.1375; val LL: -285.5543] [train 1.91s; val 0.07s] no improve (1/50)
+[Epoch 420] [train LL: -234.8102; val LL: -285.4914] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 421] [train LL: -234.7085; val LL: -285.2004] [train 1.92s; val 0.07s] ✓ improved
+[Epoch 422] [train LL: -235.3743; val LL: -285.2840] [train 1.90s; val 0.06s] no improve (1/50)
+[Epoch 423] [train LL: -234.7996; val LL: -285.1086] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 424] [train LL: -234.3913; val LL: -285.4917] [train 1.93s; val 0.07s] no improve (1/50)
+[Epoch 425] [train LL: -233.8502; val LL: -285.1131] [train 1.93s; val 0.06s] no improve (2/50)
+[Epoch 426] [train LL: -234.2478; val LL: -285.5515] [train 1.93s; val 0.06s] no improve (3/50)
+[Epoch 427] [train LL: -234.0237; val LL: -285.0562] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 428] [train LL: -234.2296; val LL: -285.3314] [train 1.91s; val 0.06s] no improve (1/50)
+[Epoch 429] [train LL: -234.3682; val LL: -285.3515] [train 1.93s; val 0.06s] no improve (2/50)
+[Epoch 430] [train LL: -233.1554; val LL: -285.2223] [train 1.95s; val 0.06s] no improve (3/50)
+[Epoch 431] [train LL: -234.8200; val LL: -285.2449] [train 1.96s; val 0.07s] no improve (4/50)
+[Epoch 432] [train LL: -233.9882; val LL: -285.1815] [train 1.94s; val 0.06s] no improve (5/50)
+[Epoch 433] [train LL: -233.4065; val LL: -285.2533] [train 1.93s; val 0.07s] no improve (6/50)
+[Epoch 434] [train LL: -233.9834; val LL: -285.1842] [train 1.94s; val 0.07s] no improve (7/50)
+[Epoch 435] [train LL: -234.1327; val LL: -284.7515] [train 1.92s; val 0.07s] ✓ improved
+[Epoch 436] [train LL: -233.6271; val LL: -285.0817] [train 1.93s; val 0.07s] no improve (1/50)
+[Epoch 437] [train LL: -233.5891; val LL: -284.6860] [train 1.93s; val 0.07s] ✓ improved
+[Epoch 438] [train LL: -233.0495; val LL: -284.8944] [train 1.92s; val 0.06s] no improve (1/50)
+[Epoch 439] [train LL: -233.3065; val LL: -284.9257] [train 1.93s; val 0.07s] no improve (2/50)
+[Epoch 440] [train LL: -233.7397; val LL: -284.8969] [train 1.94s; val 0.07s] no improve (3/50)
+[Epoch 441] [train LL: -233.0327; val LL: -284.8793] [train 1.94s; val 0.06s] no improve (4/50)
+[Epoch 442] [train LL: -233.5078; val LL: -284.4929] [train 1.93s; val 0.07s] ✓ improved
+[Epoch 443] [train LL: -232.7054; val LL: -284.8475] [train 1.91s; val 0.06s] no improve (1/50)
+[Epoch 444] [train LL: -233.9123; val LL: -284.8789] [train 1.89s; val 0.06s] no improve (2/50)
+[Epoch 445] [train LL: -233.0072; val LL: -284.7615] [train 1.90s; val 0.06s] no improve (3/50)
+[Epoch 446] [train LL: -232.9140; val LL: -284.8052] [train 1.93s; val 0.07s] no improve (4/50)
+[Epoch 447] [train LL: -233.3222; val LL: -284.7429] [train 1.92s; val 0.07s] no improve (5/50)
+[Epoch 448] [train LL: -232.7559; val LL: -284.6443] [train 1.94s; val 0.06s] no improve (6/50)
+[Epoch 449] [train LL: -233.3801; val LL: -284.7479] [train 1.93s; val 0.07s] no improve (7/50)
+[Epoch 450] [train LL: -232.2388; val LL: -284.4006] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 451] [train LL: -233.3491; val LL: -284.1686] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 452] [train LL: -232.4381; val LL: -284.4364] [train 1.93s; val 0.07s] no improve (1/50)
+[Epoch 453] [train LL: -232.3780; val LL: -284.4663] [train 1.95s; val 0.06s] no improve (2/50)
+[Epoch 454] [train LL: -232.8347; val LL: -284.3367] [train 1.95s; val 0.06s] no improve (3/50)
+[Epoch 455] [train LL: -232.2725; val LL: -284.2299] [train 1.90s; val 0.06s] no improve (4/50)
+[Epoch 456] [train LL: -232.3311; val LL: -284.3428] [train 1.91s; val 0.06s] no improve (5/50)
+[Epoch 457] [train LL: -233.0456; val LL: -284.3318] [train 1.91s; val 0.06s] no improve (6/50)
+[Epoch 458] [train LL: -232.3812; val LL: -284.0155] [train 1.92s; val 0.07s] ✓ improved
+[Epoch 459] [train LL: -232.9184; val LL: -284.1414] [train 1.96s; val 0.06s] no improve (1/50)
+[Epoch 460] [train LL: -232.4474; val LL: -284.0934] [train 1.94s; val 0.07s] no improve (2/50)
+[Epoch 461] [train LL: -232.0094; val LL: -284.0260] [train 1.93s; val 0.06s] no improve (3/50)
+[Epoch 462] [train LL: -231.8880; val LL: -283.9503] [train 1.92s; val 0.07s] ✓ improved
+[Epoch 463] [train LL: -232.4786; val LL: -283.8855] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 464] [train LL: -231.9634; val LL: -284.2752] [train 1.88s; val 0.06s] no improve (1/50)
+[Epoch 465] [train LL: -232.3820; val LL: -284.2663] [train 1.89s; val 0.06s] no improve (2/50)
+[Epoch 466] [train LL: -232.6065; val LL: -284.2344] [train 1.89s; val 0.06s] no improve (3/50)
+[Epoch 467] [train LL: -232.4690; val LL: -284.2069] [train 1.88s; val 0.06s] no improve (4/50)
+[Epoch 468] [train LL: -232.1853; val LL: -284.2367] [train 1.92s; val 0.07s] no improve (5/50)
+[Epoch 469] [train LL: -232.0013; val LL: -283.8951] [train 1.93s; val 0.07s] no improve (6/50)
+[Epoch 470] [train LL: -232.2444; val LL: -284.0211] [train 1.92s; val 0.06s] no improve (7/50)
+[Epoch 471] [train LL: -231.2119; val LL: -283.9418] [train 1.89s; val 0.06s] no improve (8/50)
+[Epoch 472] [train LL: -231.6572; val LL: -284.0570] [train 1.90s; val 0.06s] no improve (9/50)
+[Epoch 473] [train LL: -231.9582; val LL: -283.8993] [train 1.90s; val 0.07s] no improve (10/50)
+[Epoch 474] [train LL: -231.8766; val LL: -283.8442] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 475] [train LL: -231.4699; val LL: -283.8933] [train 1.91s; val 0.07s] no improve (1/50)
+[Epoch 476] [train LL: -232.4373; val LL: -283.8289] [train 1.93s; val 0.07s] ✓ improved
+[Epoch 477] [train LL: -231.5451; val LL: -283.4684] [train 1.92s; val 0.06s] ✓ improved
+[Epoch 478] [train LL: -231.6413; val LL: -283.3821] [train 1.97s; val 0.07s] ✓ improved
+[Epoch 479] [train LL: -231.8492; val LL: -283.3074] [train 1.93s; val 0.07s] ✓ improved
+[Epoch 480] [train LL: -231.1738; val LL: -283.1866] [train 1.93s; val 0.07s] ✓ improved
+[Epoch 481] [train LL: -230.8203; val LL: -283.5463] [train 1.93s; val 0.07s] no improve (1/50)
+[Epoch 482] [train LL: -231.3398; val LL: -283.5903] [train 1.93s; val 0.06s] no improve (2/50)
+[Epoch 483] [train LL: -231.2635; val LL: -283.4297] [train 1.93s; val 0.06s] no improve (3/50)
+[Epoch 484] [train LL: -231.7244; val LL: -283.0186] [train 1.89s; val 0.07s] ✓ improved
+[Epoch 485] [train LL: -231.2313; val LL: -282.9435] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 486] [train LL: -231.5398; val LL: -282.9597] [train 1.90s; val 0.06s] no improve (1/50)
+[Epoch 487] [train LL: -230.6263; val LL: -282.9800] [train 1.94s; val 0.07s] no improve (2/50)
+[Epoch 488] [train LL: -231.4295; val LL: -282.9364] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 489] [train LL: -230.6586; val LL: -282.9561] [train 1.93s; val 0.07s] no improve (1/50)
+[Epoch 490] [train LL: -230.8888; val LL: -282.8785] [train 1.93s; val 0.06s] ✓ improved
+[Epoch 491] [train LL: -230.7913; val LL: -283.0436] [train 1.92s; val 0.07s] no improve (1/50)
+[Epoch 492] [train LL: -231.4440; val LL: -283.0395] [train 1.92s; val 0.07s] no improve (2/50)
+[Epoch 493] [train LL: -231.5064; val LL: -282.7994] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 494] [train LL: -230.9682; val LL: -282.8206] [train 1.92s; val 0.06s] no improve (1/50)
+[Epoch 495] [train LL: -230.5437; val LL: -282.7232] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 496] [train LL: -231.9710; val LL: -282.7535] [train 1.89s; val 0.06s] no improve (1/50)
+[Epoch 497] [train LL: -231.7038; val LL: -282.7919] [train 1.88s; val 0.06s] no improve (2/50)
+[Epoch 498] [train LL: -230.6345; val LL: -282.7254] [train 1.89s; val 0.06s] no improve (3/50)
+[Epoch 499] [train LL: -230.8896; val LL: -282.7156] [train 1.89s; val 0.07s] ✓ improved
+[Epoch 500] [train LL: -231.3938; val LL: -282.7539] [train 1.90s; val 0.06s] no improve (1/50)
+[Epoch 501] [train LL: -230.5247; val LL: -282.7246] [train 1.89s; val 0.06s] no improve (2/50)
+[Epoch 502] [train LL: -230.4796; val LL: -282.6308] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 503] [train LL: -230.4599; val LL: -282.7021] [train 1.91s; val 0.06s] no improve (1/50)
+[Epoch 504] [train LL: -230.3460; val LL: -282.6793] [train 1.92s; val 0.07s] no improve (2/50)
+[Epoch 505] [train LL: -230.8545; val LL: -282.7294] [train 1.93s; val 0.07s] no improve (3/50)
+[Epoch 506] [train LL: -230.0642; val LL: -282.5974] [train 1.92s; val 0.07s] ✓ improved
+[Epoch 507] [train LL: -230.1106; val LL: -282.5780] [train 1.94s; val 0.07s] ✓ improved
+[Epoch 508] [train LL: -231.1272; val LL: -282.7888] [train 1.94s; val 0.07s] no improve (1/50)
+[Epoch 509] [train LL: -230.2591; val LL: -282.7325] [train 1.93s; val 0.06s] no improve (2/50)
+[Epoch 510] [train LL: -230.0860; val LL: -282.4203] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 511] [train LL: -229.7721; val LL: -282.3295] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 512] [train LL: -230.8853; val LL: -282.3483] [train 1.93s; val 0.07s] no improve (1/50)
+[Epoch 513] [train LL: -230.9362; val LL: -282.3381] [train 1.91s; val 0.06s] no improve (2/50)
+[Epoch 514] [train LL: -230.7932; val LL: -282.7284] [train 1.90s; val 0.06s] no improve (3/50)
+[Epoch 515] [train LL: -230.8324; val LL: -282.5820] [train 1.91s; val 0.07s] no improve (4/50)
+[Epoch 516] [train LL: -229.6796; val LL: -282.5423] [train 1.91s; val 0.06s] no improve (5/50)
+[Epoch 517] [train LL: -230.2361; val LL: -282.3903] [train 1.92s; val 0.07s] no improve (6/50)
+[Epoch 518] [train LL: -230.1416; val LL: -282.2209] [train 1.94s; val 0.07s] ✓ improved
+[Epoch 519] [train LL: -230.2521; val LL: -282.1725] [train 1.93s; val 0.06s] ✓ improved
+[Epoch 520] [train LL: -230.7142; val LL: -282.5807] [train 1.91s; val 0.06s] no improve (1/50)
+[Epoch 521] [train LL: -230.3047; val LL: -282.6360] [train 1.90s; val 0.06s] no improve (2/50)
+[Epoch 522] [train LL: -230.3308; val LL: -282.5920] [train 1.93s; val 0.07s] no improve (3/50)
+[Epoch 523] [train LL: -230.0186; val LL: -282.1891] [train 1.93s; val 0.06s] no improve (4/50)
+[Epoch 524] [train LL: -229.8068; val LL: -282.1892] [train 1.93s; val 0.06s] no improve (5/50)
+[Epoch 525] [train LL: -229.6407; val LL: -282.2840] [train 1.91s; val 0.07s] no improve (6/50)
+[Epoch 526] [train LL: -229.5733; val LL: -282.3841] [train 1.92s; val 0.06s] no improve (7/50)
+[Epoch 527] [train LL: -230.1098; val LL: -282.3988] [train 1.90s; val 0.06s] no improve (8/50)
+[Epoch 528] [train LL: -229.8244; val LL: -282.3258] [train 1.89s; val 0.06s] no improve (9/50)
+[Epoch 529] [train LL: -229.2083; val LL: -282.0461] [train 1.92s; val 0.07s] ✓ improved
+[Epoch 530] [train LL: -230.0413; val LL: -282.0626] [train 1.92s; val 0.06s] no improve (1/50)
+[Epoch 531] [train LL: -230.0880; val LL: -282.5743] [train 1.97s; val 0.06s] no improve (2/50)
+[Epoch 532] [train LL: -229.1787; val LL: -282.2728] [train 1.97s; val 0.07s] no improve (3/50)
+[Epoch 533] [train LL: -228.9550; val LL: -281.8740] [train 1.92s; val 0.07s] ✓ improved
+[Epoch 534] [train LL: -229.1281; val LL: -282.1385] [train 1.92s; val 0.07s] no improve (1/50)
+[Epoch 535] [train LL: -228.9799; val LL: -282.0198] [train 1.94s; val 0.07s] no improve (2/50)
+[Epoch 536] [train LL: -229.3333; val LL: -282.1037] [train 1.93s; val 0.06s] no improve (3/50)
+[Epoch 537] [train LL: -229.1423; val LL: -281.9800] [train 1.92s; val 0.06s] no improve (4/50)
+[Epoch 538] [train LL: -229.8405; val LL: -281.5816] [train 1.91s; val 0.07s] ✓ improved
+[Epoch 539] [train LL: -229.0045; val LL: -281.5026] [train 1.94s; val 0.07s] ✓ improved
+[Epoch 540] [train LL: -229.2856; val LL: -281.8236] [train 1.93s; val 0.07s] no improve (1/50)
+[Epoch 541] [train LL: -228.5900; val LL: -281.7843] [train 1.93s; val 0.07s] no improve (2/50)
+[Epoch 542] [train LL: -228.3977; val LL: -281.7314] [train 1.94s; val 0.07s] no improve (3/50)
+[Epoch 543] [train LL: -228.3517; val LL: -281.6264] [train 1.95s; val 0.07s] no improve (4/50)
+[Epoch 544] [train LL: -228.6911; val LL: -281.5514] [train 1.95s; val 0.07s] no improve (5/50)
+[Epoch 545] [train LL: -228.6490; val LL: -281.2012] [train 1.94s; val 0.07s] ✓ improved
+[Epoch 546] [train LL: -228.6694; val LL: -281.4531] [train 1.95s; val 0.07s] no improve (1/50)
+[Epoch 547] [train LL: -228.3162; val LL: -281.0715] [train 1.95s; val 0.07s] ✓ improved
+[Epoch 548] [train LL: -228.4524; val LL: -281.4126] [train 1.89s; val 0.06s] no improve (1/50)
+[Epoch 549] [train LL: -228.5014; val LL: -281.4391] [train 1.90s; val 0.07s] no improve (2/50)
+[Epoch 550] [train LL: -228.5785; val LL: -281.5391] [train 1.90s; val 0.06s] no improve (3/50)
+[Epoch 551] [train LL: -227.8972; val LL: -281.7532] [train 1.91s; val 0.06s] no improve (4/50)
+[Epoch 552] [train LL: -228.9061; val LL: -281.6183] [train 1.94s; val 0.07s] no improve (5/50)
+[Epoch 553] [train LL: -228.3569; val LL: -281.6891] [train 1.95s; val 0.07s] no improve (6/50)
+[Epoch 554] [train LL: -228.8660; val LL: -281.3566] [train 1.93s; val 0.07s] no improve (7/50)
+[Epoch 555] [train LL: -228.9513; val LL: -281.6899] [train 1.94s; val 0.07s] no improve (8/50)
+[Epoch 556] [train LL: -228.3016; val LL: -281.2292] [train 1.91s; val 0.07s] no improve (9/50)
+[Epoch 557] [train LL: -227.7897; val LL: -281.0351] [train 1.92s; val 0.06s] ✓ improved
+[Epoch 558] [train LL: -227.5005; val LL: -281.5766] [train 1.89s; val 0.06s] no improve (1/50)
+[Epoch 559] [train LL: -227.4435; val LL: -280.8311] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 560] [train LL: -227.5884; val LL: -281.1551] [train 1.89s; val 0.06s] no improve (1/50)
+[Epoch 561] [train LL: -227.8171; val LL: -280.8878] [train 1.89s; val 0.06s] no improve (2/50)
+[Epoch 562] [train LL: -227.9381; val LL: -281.1236] [train 1.89s; val 0.06s] no improve (3/50)
+[Epoch 563] [train LL: -227.5360; val LL: -280.6865] [train 1.92s; val 0.07s] ✓ improved
+[Epoch 564] [train LL: -228.2543; val LL: -280.9293] [train 1.91s; val 0.07s] no improve (1/50)
+[Epoch 565] [train LL: -228.0879; val LL: -280.9456] [train 1.91s; val 0.07s] no improve (2/50)
+[Epoch 566] [train LL: -228.1939; val LL: -280.6672] [train 1.94s; val 0.07s] ✓ improved
+[Epoch 567] [train LL: -227.7719; val LL: -280.6821] [train 1.93s; val 0.06s] no improve (1/50)
+[Epoch 568] [train LL: -228.3618; val LL: -280.5065] [train 1.93s; val 0.06s] ✓ improved
+[Epoch 569] [train LL: -227.7146; val LL: -280.3486] [train 1.94s; val 0.06s] ✓ improved
+[Epoch 570] [train LL: -227.3832; val LL: -280.4528] [train 1.94s; val 0.07s] no improve (1/50)
+[Epoch 571] [train LL: -227.9204; val LL: -280.6910] [train 1.94s; val 0.07s] no improve (2/50)
+[Epoch 572] [train LL: -227.7473; val LL: -280.7935] [train 1.93s; val 0.06s] no improve (3/50)
+[Epoch 573] [train LL: -227.0389; val LL: -280.3637] [train 1.92s; val 0.06s] no improve (4/50)
+[Epoch 574] [train LL: -227.8587; val LL: -280.5423] [train 1.91s; val 0.07s] no improve (5/50)
+[Epoch 575] [train LL: -228.1841; val LL: -280.7675] [train 1.91s; val 0.07s] no improve (6/50)
+[Epoch 576] [train LL: -227.5226; val LL: -280.8081] [train 1.95s; val 0.06s] no improve (7/50)
+[Epoch 577] [train LL: -226.8865; val LL: -280.7815] [train 1.93s; val 0.07s] no improve (8/50)
+[Epoch 578] [train LL: -227.6339; val LL: -280.7504] [train 1.92s; val 0.07s] no improve (9/50)
+[Epoch 579] [train LL: -227.4904; val LL: -280.3538] [train 1.91s; val 0.07s] no improve (10/50)
+[Epoch 580] [train LL: -226.6474; val LL: -280.5491] [train 1.91s; val 0.06s] no improve (11/50)
+[Epoch 581] [train LL: -227.3563; val LL: -280.2576] [train 1.95s; val 0.07s] ✓ improved
+[Epoch 582] [train LL: -227.5214; val LL: -280.6944] [train 1.93s; val 0.07s] no improve (1/50)
+[Epoch 583] [train LL: -226.9362; val LL: -280.2263] [train 1.92s; val 0.07s] ✓ improved
+[Epoch 584] [train LL: -227.0807; val LL: -280.6768] [train 1.91s; val 0.06s] no improve (1/50)
+[Epoch 585] [train LL: -227.6147; val LL: -280.5218] [train 1.90s; val 0.06s] no improve (2/50)
+[Epoch 586] [train LL: -227.5812; val LL: -280.1624] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 587] [train LL: -227.0069; val LL: -280.7378] [train 1.95s; val 0.07s] no improve (1/50)
+[Epoch 588] [train LL: -226.5866; val LL: -280.3580] [train 1.92s; val 0.07s] no improve (2/50)
+[Epoch 589] [train LL: -226.6643; val LL: -280.0884] [train 1.93s; val 0.07s] ✓ improved
+[Epoch 590] [train LL: -227.0440; val LL: -280.5327] [train 1.97s; val 0.07s] no improve (1/50)
+[Epoch 591] [train LL: -226.9652; val LL: -280.2871] [train 1.92s; val 0.06s] no improve (2/50)
+[Epoch 592] [train LL: -227.1340; val LL: -280.5064] [train 1.93s; val 0.07s] no improve (3/50)
+[Epoch 593] [train LL: -227.2746; val LL: -280.4746] [train 1.91s; val 0.06s] no improve (4/50)
+[Epoch 594] [train LL: -226.3393; val LL: -280.4811] [train 1.95s; val 0.06s] no improve (5/50)
+[Epoch 595] [train LL: -227.2082; val LL: -280.5053] [train 1.89s; val 0.06s] no improve (6/50)
+[Epoch 596] [train LL: -226.4008; val LL: -280.5484] [train 1.90s; val 0.06s] no improve (7/50)
+[Epoch 597] [train LL: -226.8323; val LL: -280.5407] [train 1.92s; val 0.06s] no improve (8/50)
+[Epoch 598] [train LL: -226.7072; val LL: -280.4739] [train 1.92s; val 0.07s] no improve (9/50)
+[Epoch 599] [train LL: -227.4757; val LL: -280.4724] [train 1.90s; val 0.06s] no improve (10/50)
+[Epoch 600] [train LL: -226.7556; val LL: -280.4442] [train 1.92s; val 0.07s] no improve (11/50)
+[Epoch 601] [train LL: -226.5857; val LL: -280.4009] [train 1.91s; val 0.06s] no improve (12/50)
+[Epoch 602] [train LL: -227.0314; val LL: -280.3487] [train 1.92s; val 0.07s] no improve (13/50)
+[Epoch 603] [train LL: -226.8087; val LL: -279.8829] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 604] [train LL: -226.6663; val LL: -279.7936] [train 1.92s; val 0.06s] ✓ improved
+[Epoch 605] [train LL: -227.3971; val LL: -279.8677] [train 1.90s; val 0.07s] no improve (1/50)
+[Epoch 606] [train LL: -226.7221; val LL: -280.2354] [train 1.90s; val 0.06s] no improve (2/50)
+[Epoch 607] [train LL: -226.4816; val LL: -280.2613] [train 1.89s; val 0.06s] no improve (3/50)
+[Epoch 608] [train LL: -226.5294; val LL: -279.7671] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 609] [train LL: -226.5567; val LL: -280.2142] [train 1.90s; val 0.06s] no improve (1/50)
+[Epoch 610] [train LL: -226.5635; val LL: -280.2093] [train 1.93s; val 0.07s] no improve (2/50)
+[Epoch 611] [train LL: -226.0417; val LL: -280.1446] [train 1.90s; val 0.07s] no improve (3/50)
+[Epoch 612] [train LL: -226.0434; val LL: -280.1735] [train 1.90s; val 0.06s] no improve (4/50)
+[Epoch 613] [train LL: -226.8071; val LL: -280.0782] [train 1.91s; val 0.06s] no improve (5/50)
+[Epoch 614] [train LL: -226.5434; val LL: -280.1362] [train 1.91s; val 0.07s] no improve (6/50)
+[Epoch 615] [train LL: -225.8857; val LL: -280.0834] [train 1.91s; val 0.06s] no improve (7/50)
+[Epoch 616] [train LL: -226.2111; val LL: -280.0885] [train 1.90s; val 0.07s] no improve (8/50)
+[Epoch 617] [train LL: -226.8844; val LL: -280.2380] [train 1.91s; val 0.06s] no improve (9/50)
+[Epoch 618] [train LL: -226.2059; val LL: -279.9724] [train 1.90s; val 0.06s] no improve (10/50)
+[Epoch 619] [train LL: -226.1361; val LL: -279.7506] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 620] [train LL: -226.0453; val LL: -279.7617] [train 1.92s; val 0.06s] no improve (1/50)
+[Epoch 621] [train LL: -226.2466; val LL: -279.5774] [train 1.90s; val 0.07s] ✓ improved
+[Epoch 622] [train LL: -226.3971; val LL: -280.0815] [train 1.91s; val 0.06s] no improve (1/50)
+[Epoch 623] [train LL: -226.4348; val LL: -279.7098] [train 1.90s; val 0.06s] no improve (2/50)
+[Epoch 624] [train LL: -225.4442; val LL: -280.0031] [train 1.89s; val 0.06s] no improve (3/50)
+[Epoch 625] [train LL: -226.1531; val LL: -280.2461] [train 1.93s; val 0.06s] no improve (4/50)
+[Epoch 626] [train LL: -225.6709; val LL: -280.0325] [train 1.91s; val 0.06s] no improve (5/50)
+[Epoch 627] [train LL: -226.4241; val LL: -279.7907] [train 1.92s; val 0.07s] no improve (6/50)
+[Epoch 628] [train LL: -225.7940; val LL: -279.9922] [train 1.96s; val 0.07s] no improve (7/50)
+[Epoch 629] [train LL: -225.7080; val LL: -279.7608] [train 1.94s; val 0.07s] no improve (8/50)
+[Epoch 630] [train LL: -226.5969; val LL: -280.0025] [train 1.93s; val 0.06s] no improve (9/50)
+[Epoch 631] [train LL: -226.2214; val LL: -280.0880] [train 1.92s; val 0.07s] no improve (10/50)
+[Epoch 632] [train LL: -225.7045; val LL: -280.0154] [train 1.93s; val 0.07s] no improve (11/50)
+[Epoch 633] [train LL: -225.9415; val LL: -280.0111] [train 1.93s; val 0.06s] no improve (12/50)
+[Epoch 634] [train LL: -225.8471; val LL: -280.0048] [train 1.95s; val 0.07s] no improve (13/50)
+[Epoch 635] [train LL: -225.6146; val LL: -279.5350] [train 1.94s; val 0.07s] ✓ improved
+[Epoch 636] [train LL: -225.7128; val LL: -279.5138] [train 1.93s; val 0.07s] ✓ improved
+[Epoch 637] [train LL: -225.6253; val LL: -279.7588] [train 1.91s; val 0.07s] no improve (1/50)
+[Epoch 638] [train LL: -226.4236; val LL: -279.8541] [train 1.93s; val 0.07s] no improve (2/50)
+[Epoch 639] [train LL: -226.0543; val LL: -279.8298] [train 1.90s; val 0.06s] no improve (3/50)
+[Epoch 640] [train LL: -225.7184; val LL: -279.4284] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 641] [train LL: -225.9983; val LL: -279.3514] [train 1.88s; val 0.06s] ✓ improved
+[Epoch 642] [train LL: -226.2760; val LL: -279.7417] [train 1.93s; val 0.06s] no improve (1/50)
+[Epoch 643] [train LL: -225.3140; val LL: -279.6997] [train 1.96s; val 0.07s] no improve (2/50)
+[Epoch 644] [train LL: -225.4692; val LL: -279.2531] [train 1.94s; val 0.06s] ✓ improved
+[Epoch 645] [train LL: -225.8964; val LL: -279.7112] [train 1.91s; val 0.06s] no improve (1/50)
+[Epoch 646] [train LL: -225.4745; val LL: -279.7073] [train 1.90s; val 0.06s] no improve (2/50)
+[Epoch 647] [train LL: -225.3306; val LL: -279.6468] [train 1.89s; val 0.07s] no improve (3/50)
+[Epoch 648] [train LL: -225.1113; val LL: -279.6328] [train 1.94s; val 0.06s] no improve (4/50)
+[Epoch 649] [train LL: -225.3091; val LL: -279.6513] [train 1.92s; val 0.06s] no improve (5/50)
+[Epoch 650] [train LL: -225.4726; val LL: -279.6853] [train 1.93s; val 0.07s] no improve (6/50)
+[Epoch 651] [train LL: -225.7472; val LL: -279.2272] [train 1.93s; val 0.07s] ✓ improved
+[Epoch 652] [train LL: -224.8667; val LL: -279.6692] [train 1.94s; val 0.07s] no improve (1/50)
+[Epoch 653] [train LL: -226.3242; val LL: -279.5776] [train 1.94s; val 0.07s] no improve (2/50)
+[Epoch 654] [train LL: -225.5555; val LL: -279.5697] [train 1.93s; val 0.06s] no improve (3/50)
+[Epoch 655] [train LL: -225.4152; val LL: -279.5728] [train 1.90s; val 0.06s] no improve (4/50)
+[Epoch 656] [train LL: -226.0259; val LL: -279.4075] [train 1.89s; val 0.06s] no improve (5/50)
+[Epoch 657] [train LL: -225.7846; val LL: -279.0797] [train 1.93s; val 0.07s] ✓ improved
+[Epoch 658] [train LL: -225.0337; val LL: -279.1835] [train 1.90s; val 0.07s] no improve (1/50)
+[Epoch 659] [train LL: -225.1964; val LL: -279.1107] [train 1.92s; val 0.07s] no improve (2/50)
+[Epoch 660] [train LL: -225.2775; val LL: -278.9713] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 661] [train LL: -225.8377; val LL: -279.0086] [train 1.95s; val 0.06s] no improve (1/50)
+[Epoch 662] [train LL: -225.0881; val LL: -279.0357] [train 1.92s; val 0.07s] no improve (2/50)
+[Epoch 663] [train LL: -224.8046; val LL: -279.0332] [train 1.91s; val 0.07s] no improve (3/50)
+[Epoch 664] [train LL: -225.4866; val LL: -278.9942] [train 1.92s; val 0.06s] no improve (4/50)
+[Epoch 665] [train LL: -225.3967; val LL: -279.0531] [train 1.92s; val 0.07s] no improve (5/50)
+[Epoch 666] [train LL: -224.9017; val LL: -278.8715] [train 1.92s; val 0.06s] ✓ improved
+[Epoch 667] [train LL: -225.3445; val LL: -279.0129] [train 1.93s; val 0.06s] no improve (1/50)
+[Epoch 668] [train LL: -225.0013; val LL: -278.9974] [train 1.89s; val 0.06s] no improve (2/50)
+[Epoch 669] [train LL: -225.7384; val LL: -278.9730] [train 1.90s; val 0.06s] no improve (3/50)
+[Epoch 670] [train LL: -225.1516; val LL: -278.9891] [train 1.90s; val 0.07s] no improve (4/50)
+[Epoch 671] [train LL: -224.7065; val LL: -279.1940] [train 1.90s; val 0.07s] no improve (5/50)
+[Epoch 672] [train LL: -225.4135; val LL: -278.9984] [train 1.91s; val 0.07s] no improve (6/50)
+[Epoch 673] [train LL: -224.8873; val LL: -278.9882] [train 1.92s; val 0.07s] no improve (7/50)
+[Epoch 674] [train LL: -225.0058; val LL: -279.0361] [train 1.90s; val 0.06s] no improve (8/50)
+[Epoch 675] [train LL: -224.9801; val LL: -279.2061] [train 1.90s; val 0.07s] no improve (9/50)
+[Epoch 676] [train LL: -224.7436; val LL: -279.0817] [train 1.90s; val 0.06s] no improve (10/50)
+[Epoch 677] [train LL: -225.2552; val LL: -279.0158] [train 1.95s; val 0.07s] no improve (11/50)
+[Epoch 678] [train LL: -224.7808; val LL: -279.0233] [train 1.95s; val 0.07s] no improve (12/50)
+[Epoch 679] [train LL: -224.7955; val LL: -279.0527] [train 1.92s; val 0.06s] no improve (13/50)
+[Epoch 680] [train LL: -225.0111; val LL: -278.9531] [train 1.90s; val 0.06s] no improve (14/50)
+[Epoch 681] [train LL: -225.9233; val LL: -278.9322] [train 1.90s; val 0.06s] no improve (15/50)
+[Epoch 682] [train LL: -225.2172; val LL: -279.0066] [train 1.93s; val 0.07s] no improve (16/50)
+[Epoch 683] [train LL: -224.3447; val LL: -278.9403] [train 1.90s; val 0.06s] no improve (17/50)
+[Epoch 684] [train LL: -224.5085; val LL: -278.8583] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 685] [train LL: -224.4782; val LL: -278.7289] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 686] [train LL: -225.4606; val LL: -278.9548] [train 1.90s; val 0.06s] no improve (1/50)
+[Epoch 687] [train LL: -224.1114; val LL: -278.8020] [train 1.90s; val 0.06s] no improve (2/50)
+[Epoch 688] [train LL: -224.5736; val LL: -278.7848] [train 1.89s; val 0.06s] no improve (3/50)
+[Epoch 689] [train LL: -224.9146; val LL: -278.7736] [train 1.90s; val 0.06s] no improve (4/50)
+[Epoch 690] [train LL: -224.3493; val LL: -278.7633] [train 1.89s; val 0.07s] no improve (5/50)
+[Epoch 691] [train LL: -224.5802; val LL: -278.8437] [train 1.90s; val 0.06s] no improve (6/50)
+[Epoch 692] [train LL: -224.9184; val LL: -278.8250] [train 1.89s; val 0.06s] no improve (7/50)
+[Epoch 693] [train LL: -224.6470; val LL: -278.7364] [train 1.90s; val 0.06s] no improve (8/50)
+[Epoch 694] [train LL: -225.2272; val LL: -278.6561] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 695] [train LL: -224.4821; val LL: -278.7440] [train 1.94s; val 0.06s] no improve (1/50)
+[Epoch 696] [train LL: -224.5530; val LL: -278.6735] [train 1.90s; val 0.06s] no improve (2/50)
+[Epoch 697] [train LL: -224.5989; val LL: -278.6526] [train 1.94s; val 0.07s] ✓ improved
+[Epoch 698] [train LL: -224.6958; val LL: -278.9040] [train 1.91s; val 0.06s] no improve (1/50)
+[Epoch 699] [train LL: -225.2808; val LL: -278.7399] [train 1.90s; val 0.06s] no improve (2/50)
+[Epoch 700] [train LL: -225.0814; val LL: -278.6126] [train 1.94s; val 0.07s] ✓ improved
+[Epoch 701] [train LL: -223.7541; val LL: -279.0539] [train 1.93s; val 0.07s] no improve (1/50)
+[Epoch 702] [train LL: -224.1729; val LL: -278.9274] [train 1.96s; val 0.07s] no improve (2/50)
+[Epoch 703] [train LL: -224.7576; val LL: -278.6052] [train 1.94s; val 0.07s] ✓ improved
+[Epoch 704] [train LL: -224.0327; val LL: -278.6243] [train 1.90s; val 0.06s] no improve (1/50)
+[Epoch 705] [train LL: -224.3950; val LL: -278.7560] [train 1.90s; val 0.06s] no improve (2/50)
+[Epoch 706] [train LL: -224.5091; val LL: -278.5779] [train 1.93s; val 0.07s] ✓ improved
+[Epoch 707] [train LL: -223.6623; val LL: -278.6462] [train 1.93s; val 0.07s] no improve (1/50)
+[Epoch 708] [train LL: -224.8781; val LL: -278.6609] [train 1.92s; val 0.06s] no improve (2/50)
+[Epoch 709] [train LL: -224.6110; val LL: -278.8862] [train 1.91s; val 0.06s] no improve (3/50)
+[Epoch 710] [train LL: -223.9126; val LL: -278.6166] [train 1.91s; val 0.06s] no improve (4/50)
+[Epoch 711] [train LL: -224.9352; val LL: -278.4172] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 712] [train LL: -223.8873; val LL: -278.6448] [train 1.90s; val 0.06s] no improve (1/50)
+[Epoch 713] [train LL: -223.8830; val LL: -278.5002] [train 1.91s; val 0.07s] no improve (2/50)
+[Epoch 714] [train LL: -223.7535; val LL: -278.4331] [train 1.93s; val 0.06s] no improve (3/50)
+[Epoch 715] [train LL: -224.5457; val LL: -278.4137] [train 1.89s; val 0.07s] ✓ improved
+[Epoch 716] [train LL: -224.9071; val LL: -278.3803] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 717] [train LL: -224.0858; val LL: -278.4100] [train 1.90s; val 0.06s] no improve (1/50)
+[Epoch 718] [train LL: -224.3386; val LL: -278.3477] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 719] [train LL: -225.0487; val LL: -278.3856] [train 1.91s; val 0.07s] no improve (1/50)
+[Epoch 720] [train LL: -224.1598; val LL: -278.5782] [train 1.92s; val 0.07s] no improve (2/50)
+[Epoch 721] [train LL: -224.0270; val LL: -278.7301] [train 1.94s; val 0.07s] no improve (3/50)
+[Epoch 722] [train LL: -223.8925; val LL: -278.7090] [train 1.94s; val 0.07s] no improve (4/50)
+[Epoch 723] [train LL: -223.8149; val LL: -278.4204] [train 1.94s; val 0.07s] no improve (5/50)
+[Epoch 724] [train LL: -224.0790; val LL: -278.4108] [train 1.94s; val 0.06s] no improve (6/50)
+[Epoch 725] [train LL: -223.0355; val LL: -278.5642] [train 1.91s; val 0.06s] no improve (7/50)
+[Epoch 726] [train LL: -224.4082; val LL: -278.8195] [train 1.91s; val 0.07s] no improve (8/50)
+[Epoch 727] [train LL: -223.3755; val LL: -278.6928] [train 1.93s; val 0.07s] no improve (9/50)
+[Epoch 728] [train LL: -224.7009; val LL: -278.2937] [train 1.94s; val 0.07s] ✓ improved
+[Epoch 729] [train LL: -224.6452; val LL: -278.5017] [train 1.93s; val 0.07s] no improve (1/50)
+[Epoch 730] [train LL: -224.0935; val LL: -278.6499] [train 1.96s; val 0.07s] no improve (2/50)
+[Epoch 731] [train LL: -223.6826; val LL: -278.3063] [train 1.92s; val 0.07s] no improve (3/50)
+[Epoch 732] [train LL: -224.0757; val LL: -278.6466] [train 1.92s; val 0.07s] no improve (4/50)
+[Epoch 733] [train LL: -223.8369; val LL: -278.5379] [train 1.92s; val 0.07s] no improve (5/50)
+[Epoch 734] [train LL: -224.0177; val LL: -278.1250] [train 1.92s; val 0.06s] ✓ improved
+[Epoch 735] [train LL: -223.6229; val LL: -278.6272] [train 1.92s; val 0.06s] no improve (1/50)
+[Epoch 736] [train LL: -223.1480; val LL: -278.4730] [train 1.93s; val 0.07s] no improve (2/50)
+[Epoch 737] [train LL: -224.0391; val LL: -278.7203] [train 1.90s; val 0.06s] no improve (3/50)
+[Epoch 738] [train LL: -223.2932; val LL: -278.5950] [train 1.92s; val 0.06s] no improve (4/50)
+[Epoch 739] [train LL: -223.1147; val LL: -278.6004] [train 1.93s; val 0.07s] no improve (5/50)
+[Epoch 740] [train LL: -222.9875; val LL: -278.1633] [train 1.91s; val 0.06s] no improve (6/50)
+[Epoch 741] [train LL: -223.0071; val LL: -278.6926] [train 1.90s; val 0.06s] no improve (7/50)
+[Epoch 742] [train LL: -223.9451; val LL: -278.7030] [train 1.91s; val 0.06s] no improve (8/50)
+[Epoch 743] [train LL: -224.2519; val LL: -278.7200] [train 1.89s; val 0.06s] no improve (9/50)
+[Epoch 744] [train LL: -223.6929; val LL: -278.3674] [train 1.94s; val 0.07s] no improve (10/50)
+[Epoch 745] [train LL: -223.5990; val LL: -278.2418] [train 1.92s; val 0.07s] no improve (11/50)
+[Epoch 746] [train LL: -223.4217; val LL: -278.1914] [train 1.93s; val 0.06s] no improve (12/50)
+[Epoch 747] [train LL: -223.6447; val LL: -278.3000] [train 1.93s; val 0.07s] no improve (13/50)
+[Epoch 748] [train LL: -223.4149; val LL: -278.5260] [train 1.93s; val 0.06s] no improve (14/50)
+[Epoch 749] [train LL: -223.9866; val LL: -278.3331] [train 1.94s; val 0.07s] no improve (15/50)
+[Epoch 750] [train LL: -223.6415; val LL: -278.4542] [train 1.89s; val 0.06s] no improve (16/50)
+[Epoch 751] [train LL: -223.4535; val LL: -278.0420] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 752] [train LL: -223.3462; val LL: -277.8434] [train 1.89s; val 0.06s] ✓ improved
+[Epoch 753] [train LL: -222.9050; val LL: -277.8977] [train 1.90s; val 0.06s] no improve (1/50)
+[Epoch 754] [train LL: -223.6634; val LL: -278.1853] [train 1.89s; val 0.07s] no improve (2/50)
+[Epoch 755] [train LL: -223.0827; val LL: -278.2661] [train 1.90s; val 0.06s] no improve (3/50)
+[Epoch 756] [train LL: -224.1178; val LL: -278.1209] [train 1.89s; val 0.06s] no improve (4/50)
+[Epoch 757] [train LL: -222.5024; val LL: -277.9993] [train 1.89s; val 0.06s] no improve (5/50)
+[Epoch 758] [train LL: -223.0723; val LL: -278.0030] [train 1.89s; val 0.06s] no improve (6/50)
+[Epoch 759] [train LL: -222.9181; val LL: -278.0296] [train 1.90s; val 0.06s] no improve (7/50)
+[Epoch 760] [train LL: -222.8659; val LL: -278.2531] [train 1.89s; val 0.06s] no improve (8/50)
+[Epoch 761] [train LL: -223.3723; val LL: -278.4460] [train 1.89s; val 0.06s] no improve (9/50)
+[Epoch 762] [train LL: -223.1203; val LL: -278.3909] [train 1.89s; val 0.06s] no improve (10/50)
+[Epoch 763] [train LL: -223.2857; val LL: -278.1089] [train 1.90s; val 0.07s] no improve (11/50)
+[Epoch 764] [train LL: -223.7078; val LL: -278.0162] [train 1.89s; val 0.06s] no improve (12/50)
+[Epoch 765] [train LL: -222.9102; val LL: -278.0082] [train 1.90s; val 0.06s] no improve (13/50)
+[Epoch 766] [train LL: -223.3154; val LL: -277.9712] [train 1.89s; val 0.06s] no improve (14/50)
+[Epoch 767] [train LL: -222.6655; val LL: -277.9653] [train 1.90s; val 0.06s] no improve (15/50)
+[Epoch 768] [train LL: -223.6442; val LL: -277.9659] [train 1.89s; val 0.07s] no improve (16/50)
+[Epoch 769] [train LL: -223.4894; val LL: -277.9653] [train 1.93s; val 0.07s] no improve (17/50)
+[Epoch 770] [train LL: -223.6046; val LL: -277.8912] [train 1.95s; val 0.07s] no improve (18/50)
+[Epoch 771] [train LL: -223.6552; val LL: -277.9377] [train 1.93s; val 0.07s] no improve (19/50)
+[Epoch 772] [train LL: -222.6715; val LL: -277.8798] [train 1.92s; val 0.06s] no improve (20/50)
+[Epoch 773] [train LL: -223.7059; val LL: -277.8790] [train 1.91s; val 0.06s] no improve (21/50)
+[Epoch 774] [train LL: -223.9168; val LL: -277.8241] [train 1.90s; val 0.06s] ✓ improved
+[Epoch 775] [train LL: -223.0882; val LL: -277.7559] [train 1.92s; val 0.06s] ✓ improved
+[Epoch 776] [train LL: -222.7959; val LL: -277.8303] [train 1.91s; val 0.06s] no improve (1/50)
+[Epoch 777] [train LL: -223.6742; val LL: -277.8312] [train 1.90s; val 0.06s] no improve (2/50)
+[Epoch 778] [train LL: -223.4832; val LL: -277.9096] [train 1.91s; val 0.07s] no improve (3/50)
+[Epoch 779] [train LL: -222.8861; val LL: -278.1546] [train 1.91s; val 0.06s] no improve (4/50)
+[Epoch 780] [train LL: -222.7628; val LL: -277.8453] [train 1.92s; val 0.06s] no improve (5/50)
+[Epoch 781] [train LL: -222.5975; val LL: -277.8478] [train 1.93s; val 0.06s] no improve (6/50)
+[Epoch 782] [train LL: -222.4941; val LL: -277.9327] [train 1.92s; val 0.07s] no improve (7/50)
+[Epoch 783] [train LL: -222.8871; val LL: -277.8522] [train 1.91s; val 0.06s] no improve (8/50)
+[Epoch 784] [train LL: -223.3131; val LL: -277.7273] [train 1.91s; val 0.06s] ✓ improved
+[Epoch 785] [train LL: -222.6074; val LL: -277.9193] [train 1.90s; val 0.06s] no improve (1/50)
+[Epoch 786] [train LL: -222.7594; val LL: -278.0853] [train 1.94s; val 0.06s] no improve (2/50)
+[Epoch 787] [train LL: -222.9041; val LL: -278.2712] [train 1.91s; val 0.06s] no improve (3/50)
+[Epoch 788] [train LL: -222.9348; val LL: -278.3256] [train 1.91s; val 0.06s] no improve (4/50)
+[Epoch 789] [train LL: -223.1820; val LL: -278.3476] [train 1.90s; val 0.06s] no improve (5/50)
+[Epoch 790] [train LL: -223.0325; val LL: -277.9038] [train 1.89s; val 0.06s] no improve (6/50)
+[Epoch 791] [train LL: -222.8664; val LL: -278.3950] [train 1.94s; val 0.07s] no improve (7/50)
+[Epoch 792] [train LL: -223.2352; val LL: -278.2889] [train 1.90s; val 0.06s] no improve (8/50)
+[Epoch 793] [train LL: -223.3640; val LL: -278.1257] [train 1.89s; val 0.06s] no improve (9/50)
+[Epoch 794] [train LL: -223.0211; val LL: -278.2898] [train 1.91s; val 0.06s] no improve (10/50)
+[Epoch 795] [train LL: -223.1291; val LL: -278.4034] [train 1.90s; val 0.07s] no improve (11/50)
+[Epoch 796] [train LL: -222.4630; val LL: -278.3201] [train 1.91s; val 0.06s] no improve (12/50)
+[Epoch 797] [train LL: -222.4800; val LL: -278.2641] [train 1.91s; val 0.06s] no improve (13/50)
+[Epoch 798] [train LL: -222.7731; val LL: -278.3081] [train 1.90s; val 0.06s] no improve (14/50)
+[Epoch 799] [train LL: -222.7395; val LL: -277.7736] [train 1.92s; val 0.07s] no improve (15/50)
+[Epoch 800] [train LL: -222.6810; val LL: -278.1285] [train 1.91s; val 0.06s] no improve (16/50)
+[Epoch 801] [train LL: -222.6051; val LL: -278.2578] [train 1.91s; val 0.06s] no improve (17/50)
+[Epoch 802] [train LL: -223.8877; val LL: -277.9303] [train 1.96s; val 0.06s] no improve (18/50)
+[Epoch 803] [train LL: -223.4814; val LL: -278.2262] [train 1.93s; val 0.06s] no improve (19/50)
+[Epoch 804] [train LL: -222.8780; val LL: -278.1522] [train 1.91s; val 0.06s] no improve (20/50)
+[Epoch 805] [train LL: -222.6148; val LL: -278.1191] [train 1.91s; val 0.06s] no improve (21/50)
+[Epoch 806] [train LL: -222.6092; val LL: -277.8357] [train 1.91s; val 0.07s] no improve (22/50)
+[Epoch 807] [train LL: -222.3393; val LL: -277.7729] [train 1.91s; val 0.07s] no improve (23/50)
+[Epoch 808] [train LL: -222.7674; val LL: -277.8835] [train 1.91s; val 0.07s] no improve (24/50)
+[Epoch 809] [train LL: -222.5210; val LL: -277.8649] [train 1.94s; val 0.07s] no improve (25/50)
+[Epoch 810] [train LL: -223.1781; val LL: -277.9410] [train 1.92s; val 0.07s] no improve (26/50)
+[Epoch 811] [train LL: -222.8257; val LL: -277.8844] [train 1.91s; val 0.06s] no improve (27/50)
+[Epoch 812] [train LL: -222.4142; val LL: -277.9943] [train 1.93s; val 0.07s] no improve (28/50)
+[Epoch 813] [train LL: -222.6967; val LL: -277.8224] [train 1.93s; val 0.06s] no improve (29/50)
+[Epoch 814] [train LL: -222.7706; val LL: -277.8928] [train 1.91s; val 0.06s] no improve (30/50)
+[Epoch 815] [train LL: -222.3913; val LL: -277.8591] [train 1.90s; val 0.06s] no improve (31/50)
+[Epoch 816] [train LL: -222.2926; val LL: -277.9202] [train 1.90s; val 0.06s] no improve (32/50)
+[Epoch 817] [train LL: -222.6099; val LL: -277.7867] [train 1.90s; val 0.06s] no improve (33/50)
+[Epoch 818] [train LL: -222.8465; val LL: -277.8764] [train 1.90s; val 0.07s] no improve (34/50)
+[Epoch 819] [train LL: -223.0995; val LL: -277.7999] [train 1.90s; val 0.06s] no improve (35/50)
+[Epoch 820] [train LL: -222.2079; val LL: -278.0443] [train 1.92s; val 0.07s] no improve (36/50)
+[Epoch 821] [train LL: -223.4584; val LL: -278.0871] [train 1.90s; val 0.06s] no improve (37/50)
+[Epoch 822] [train LL: -223.1009; val LL: -278.2775] [train 1.94s; val 0.07s] no improve (38/50)
+[Epoch 823] [train LL: -222.4639; val LL: -278.1628] [train 1.93s; val 0.07s] no improve (39/50)
+[Epoch 824] [train LL: -222.6482; val LL: -277.8954] [train 1.93s; val 0.06s] no improve (40/50)
+[Epoch 825] [train LL: -222.5064; val LL: -278.2310] [train 1.93s; val 0.07s] no improve (41/50)
+[Epoch 826] [train LL: -222.0150; val LL: -277.9041] [train 1.93s; val 0.07s] no improve (42/50)
+[Epoch 827] [train LL: -222.5552; val LL: -277.7616] [train 1.91s; val 0.06s] no improve (43/50)
+[Epoch 828] [train LL: -222.5241; val LL: -277.8115] [train 1.89s; val 0.06s] no improve (44/50)
+[Epoch 829] [train LL: -221.8408; val LL: -277.8121] [train 1.90s; val 0.06s] no improve (45/50)
+[Epoch 830] [train LL: -222.0706; val LL: -277.8039] [train 1.89s; val 0.06s] no improve (46/50)
+[Epoch 831] [train LL: -221.7053; val LL: -277.8303] [train 1.90s; val 0.06s] no improve (47/50)
+[Epoch 832] [train LL: -222.3232; val LL: -277.7656] [train 1.89s; val 0.06s] no improve (48/50)
+[Epoch 833] [train LL: -223.0061; val LL: -277.7585] [train 1.93s; val 0.06s] no improve (49/50)
+[Epoch 834] [train LL: -222.1132; val LL: -277.7538] [train 1.90s; val 0.06s] no improve (50/50)
+
+Best epoch: 784
+Best val LL: -277.727318
+Total time: 1670.32 seconds
