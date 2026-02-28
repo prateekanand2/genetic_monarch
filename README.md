@@ -17,8 +17,8 @@ CUDA_VISIBLE_DEVICES=2 python train.py \
 ```
 
 ### Testing
-```bash
 To test the model:
+```bash
 CUDA_VISIBLE_DEVICES=2 python test.py \
     --model_path models/model.jpc \
     --test_path data/test.txt \
